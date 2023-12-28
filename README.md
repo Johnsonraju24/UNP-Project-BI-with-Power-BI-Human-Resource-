@@ -8,3 +8,8 @@ Key Highlights 1 Contributed to the development of intricate KPIs and dynamic, i
 3. Enhanced skill in creating data model, implemented data transformations and calculations using DAX for accurate analysis and reporting
 
 4 lead the team through its intricate symphony of information.
+
+pbix link :- https://drive.google.com/file/d/1YU62SOBtcYYj3pUFMRE1oZgIE2_Q3v0X/view?usp=drivesdk
+
+ppt link :- https://drive.google.com/file/d/1YUjMSS7Bz9_aLRFIkODlCI2CPjapfMq2/view?usp=drivesdk
+
